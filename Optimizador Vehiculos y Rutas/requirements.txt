@@ -1,0 +1,8 @@
+streamlit
+networkx
+matplotlib
+pulp
+folium
+streamlit_folium
+pandas
+geolocator
